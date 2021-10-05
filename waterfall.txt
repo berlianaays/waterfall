@@ -1,0 +1,6 @@
+1. Analisis kebutuhan
+2. Perancangan sistem
+3. Implementasi
+4. Testing
+5. Deployment
+6. Maintenance
